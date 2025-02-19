@@ -6,6 +6,7 @@ This bot automates the daily claiming of $RWT rewards from the Humanity Protocol
 ## Getting Started
 
 Follow these steps to set up and run the bot on your local machine.
+Register [Humanity Testnet](http://testnet.humanity.org/login?ref=rival15)
 
 ### 1. Clone the Repository
 
