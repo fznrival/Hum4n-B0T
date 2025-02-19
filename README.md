@@ -28,9 +28,8 @@ cd Human-B0T
 Create a private_keys.txt file in the root directory of the project. This file should contain one private key per line, like so:
 
 ```python
-private_key_1
-private_key_2
-private_key_3
+pvkey1
+pvkey2
 ...
 ```
 
