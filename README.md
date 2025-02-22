@@ -13,7 +13,7 @@ Register [Humanity Testnet](http://testnet.humanity.org/login?ref=rival15)
 To start, clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/fznrival/Human-B0T.git
+git clone https://github.com/fznrival/Hum4n-B0T.git
 ```
 
 ### 2. Change Directory to the Cloned Folder
@@ -21,16 +21,15 @@ git clone https://github.com/fznrival/Human-B0T.git
 Navigate to the folder where the repository was cloned:
 
 ```bash
-cd Human-B0T
+cd Hum4n-B0T
 ```
 
 ### 3. Create the private_keys.txt File
 Create a private_keys.txt file in the root directory of the project. This file should contain one private key per line, like so:
 
 ```python
-pvkey1
-pvkey2
-...
+0x...
+0x...
 ```
 
 ### 4. Install Required Dependencies
