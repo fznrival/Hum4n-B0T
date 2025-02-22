@@ -1,12 +1,12 @@
-# Auto Daily Claim Hum4nity Protoc0l Bot
+# Auto Daily Claim Hum4nity Protoc0l B0t
 
 ## Introduction
-This bot automates the daily claiming of $RWT rewards from the Humanity Protocol using multiple wallets. It is designed to be easy to set up and use.
+This bot automates the daily claiming of $RWT rewards from the Hum4nity Protoc0l using multiple wallets. It is designed to be easy to set up and use.
 
 ## Getting Started
 
-Follow these steps to set up and run the bot on your local machine.
-Register [Humanity Testnet](http://testnet.humanity.org/login?ref=rival15)
+Follow these steps to set up and run the b0t on your local machine.
+Register [Hum4nity Testnet](http://testnet.humanity.org/login?ref=rival15)
 
 ### 1. Clone the Repository
 
@@ -36,12 +36,12 @@ Create a private_keys.txt file in the root directory of the project. This file s
 Make sure you have Python installed on your system. Then, install the required dependencies using the requirements.txt file:
 
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 5. Run the Bot
 Once everything is set up, you can run the bot with the following command:
 
 ```bash
-python3 bot.py
+python bot.py
 ```
