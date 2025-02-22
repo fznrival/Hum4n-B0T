@@ -1,4 +1,4 @@
-# Auto Daily Claim $RWT Humanity Protocol Bot
+# Auto Daily Claim Hum4nity Protoc0l Bot
 
 ## Introduction
 This bot automates the daily claiming of $RWT rewards from the Humanity Protocol using multiple wallets. It is designed to be easy to set up and use.
